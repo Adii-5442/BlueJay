@@ -1,0 +1,24 @@
+Employees who have worked for 7 consecutive days:
+Empty DataFrame
+Columns: [Employee Name]
+Index: []
+
+Employees with less than 10 hours between shifts but greater than 1 hour:
+        Employee Name
+2     REsaXiaWE, XAis
+4     REsaXiaWE, XAis
+6     REsaXiaWE, XAis
+8     REsaXiaWE, XAis
+10    REsaXiaWE, XAis
+...               ...
+1474  WgAyeW, RayCEWd
+1476  WgAyeW, RayCEWd
+1478  WgAyeW, RayCEWd
+1480  WgAyeW, RayCEWd
+1482  WgAyeW, RayCEWd
+
+[691 rows x 1 columns]
+
+Employees who have worked for more than 14 hours in a single shift:
+                        Employee Name
+1036  DeXgadiXXE REdarMe, ChrisMiaW S
